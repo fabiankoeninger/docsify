@@ -1,3 +1,3 @@
-# Headline
+# Willkommen zu unserer Captivate Schulung.
 
-> An awesome project.
+Klicken Sie zur Navigation auf das jeweilige Modul auf der linken Seite.
