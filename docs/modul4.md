@@ -2,9 +2,10 @@
 
 ### Toolbar
 
-Mit der Toolbar lassen sich Folien, Inhalte, Medien erstellen und vieles mehr.
+Mit der Toolbar lassen sich Folien, Inhalte, Medien erstellen und vieles mehr. 
 
 #### Folien
+
 **Asset Library**: Die Asset Librarty bietet Zugriff auf Vorlagen, Bilder, Icons und mehr, welche frei verwendet werden können.
 
 **Inhaltsfolie & Leere Folie**: Beide Folienarten erstellen eine leere Folie mit unterschiedlichem Layout, welches aber auch nachträglich geändert werden kann.
@@ -21,19 +22,23 @@ Mit der Toolbar lassen sich Folien, Inhalte, Medien erstellen und vieles mehr.
 
 **360 Folie**: Hier kann mit Hilfe von speziellen JPEG Bilddateien eine 3D Interaktion erstellt werden.
 
-#### Design
+#### Design 
+
 Hier lässt sich das Design des kompletten Projekts ändern. Es wird empfohlen das Design bei einem bereits mit Inhalt befülltem Projekt **nicht** mehr zu ändern.
 
 #### Text
+
 Mit dieser Funktion lassen sich zum einen klassische Text Boxen hinzufügen, sowie Eingabefelder und animierter Text.
 
 #### Formen
+
 Hier können verschiedene Formen hinzugefügt werden, welche aber auch nachträglich nochmals geändert werden können.
 
 #### Objekte
+
 Objekte sind hauptsächlich bei Software Simulationen nützlich.
 
-**Highlight Box**: Mit der Highlight Box lassen sich bestimmte Bereiche innerhalb einer Folie hervorheben.
+**Highlight Box**: Mit der Highlight Box lassen sich bestimmte Bereiche innerhalb einer Folie hervorheben. 
 
 **Maus**: Hier kann noch nachträglich ein Mausbewegung simuliert werden.
 
@@ -44,6 +49,7 @@ Objekte sind hauptsächlich bei Software Simulationen nützlich.
 **Web**: Hier lassen sich webbasierte Objekte in das Training einbinden.
 
 #### Interaktionen
+
 Interkationen können für die aktive Teilhabe des Nutzers verwendet werden.
 
 **Schaltfläche**: Eine  Schaltfläche kann entweder mit dieser Option oder auch als Formelement erstellt werden. Beide Optionen sind sich sehr ähnlich, wobei ein Formelement noch weitere Funktionalitäten bringt.
@@ -55,15 +61,19 @@ Interkationen können für die aktive Teilhabe des Nutzers verwendet werden.
 **Learning Interactions**: Captivate hat eine Reihe von vorgefertigten Interaktionen, welche hier eingefügt werden können.
 
 #### Medien
+
 Hier lassen sich verschiedene Medienarten, wie Bilder, Videos, Animationen, etc. einfügen.
 
 #### Interaktives Video
+
 Mit dieser Option lässt sich ein Video entweder vom lokalen Rechner oder direkt aus dem Internet (youtube, vimeo) einbinden. Anschließend kann das Video mit weiteren Funktionen erweitert werden, welche später noch näher erläutert werden.
 
 #### Record
+
 Hier kann man direkt eine Vertonung einsprechen.
 
 #### Vorschau
+
 Mit dieser Option lässt sich eine Vorschau des aktuellen Projekts erstellen.
 
 **HTML5 in Browser**: Diese Option braucht etwas länger bei der Erstellung der Vorschau, sollte aber regelmäßig genutzt werden, da nur hier eine tatsächliche Vorschau erstellt, welche gleich zur späteren Veröffentlichung ist. Sofern man sich nur einen bestimmten Bereich anschauen möchte, können auch nicht benötigte Folien ausgeblendet werden.
@@ -71,11 +81,11 @@ Mit dieser Option lässt sich eine Vorschau des aktuellen Projekts erstellen.
 
 **Folie abspielen**: Diese Option ist identisch zum Playbutton im unteren Feld der Zeitleiste.
 
-**Von der Folie**: Erstellt eine Vorschau innerhalb von Captivate ab der ausgewählten Folie.
+**Von der Folie**: Erstellt eine Vorschau innerhalb von Captivate ab der ausgewählten Folie. 
 
 **Nächsten 5 Folie**: Erstellt eine Vorschau innerhalb von Captivate mit den nächsten 5 Folien.
 
-**Projekt**: Erstellt eine Vorschau des gesamten Projekts innerhalb von Captivate.
+**Projekt**: Erstellt eine Vorschau des gesamten Projekts innerhalb von Captivate. 
 
 **Vorschau SCORM Cloud**: SCORM ist der Standard, welcher für die Kommunikation zwischen des Captivate Projekts und dem LMS genutzt wird. Hier können Angaben wie ``bestanden``, ``Quiz Bewertung``, sowie individuelle Variablen an das LMS gesendet werden. Eine Vorschau in der SCORM Cloud ermöglicht es, zu überprüfen, ob sich das Training entsprechend verhält.
 
@@ -83,6 +93,7 @@ Mit dieser Option lässt sich eine Vorschau des aktuellen Projekts erstellen.
 
 
 ### Erstellung von Interaktionen
+
 Für die nachstehende Dokumentation wird auf folgende Datei Bezug genommen:
 https://connect.digital-learning-creator.de/s/5tdp6CPfw4ywXMz
 
@@ -94,18 +105,19 @@ Auf der Folie *Interaktion mit einer Schaltfläche - Übung* kannst du die folge
 
 1. Form als Schaltfläche konfigurieren. Wähle hierfür die Schaltfläche aus und aktiviere die Option ``Als Schaltfläche verwenden`` innerhalb der Eigenschaften.
 2. Stelle sicher, dass der Stil ``WIKA btn primary`` ausgewählt ist.
-3. Gehe auf ``Aktionen`` und wähle hier die Aktion ``Zeigen`` aus.
+3. Gehe auf ``Aktionen`` und wähle hier die Aktion ``Zeigen`` aus. 
 4. Wähle das entsprechende Objekt aus, welches angezeigt werden soll.
-5. Stelle sicher, dass die Infobox zum Folienstart nicht angezeigt wird. Wähle hierfür das Element aus und klicke auf das Auge innerhalb der Eigenschaften.
+5. Stelle sicher, dass die Infobox zum Folienstart nicht angezeigt wird. Wähle hierfür das Element aus und klicke auf das Auge innerhalb der Eigenschaften. 
 6. Teste in der Vorschau, ob es funktioniert.
 
 #### Erweiterte Aktionen
+
 In vielen Fällen ist es notwendig, gleich mehrere Aktionen auf einmal auszuführen. Hier können erweiterte Aktionen verwendet werden. Ein Beispiel findest du auf der Folie *Erweiterte Aktionen*.
 
 Auf der Folie *Erweiterte Aktionen - Übung* kannst du folgende Schritte selbst umsetzen.
 
 1. Richte die grauen Elemente  am obersten Element aus. Öffne dazu das ``Ausrichten`` Fenster.
-2. Klicke auf den Text *Drei Schaltflächen* und wechsel innerhalb der Eigenschaften in die ``Status Ansicht``.
+2. Klicke auf den Text *Drei Schaltflächen* und wechsel innerhalb der Eigenschaften in die ``Status Ansicht``. 
 3. Erstelle drei neue Status mit unterschiedlichem Inhalt.
 4. Klicke auf das oberste Element  und definiere es als Schaltfläche.
 5. Gehe auf ``Aktionen`` und wähle ``Erweiterte Aktion ausführen`` aus.
@@ -120,6 +132,7 @@ Auf der Folie *Erweiterte Aktionen - Übung* kannst du folgende Schritte selbst 
 14. Teste in der Vorschau, ob es funktioniert.
 
 #### Geteilte Aktion
+
 In manchen Fällen ist auch sinnvoll eine **Geteilte Aktion** zu nutzen. Dann zum Beispiel, wenn eine Folie mit einer Erweiterten Aktion mehrmals dupliziert werden soll oder wenn eine Erweiterte Aktion viele Variablen hat, welche mehrfach verwendet werden soll.
 Auf der Folie **Geteilte Aktion** findest du ein Beispiel dafür.
 
@@ -144,7 +157,7 @@ Mit den folgenden Schritten kannst du deine eigene Interaktion mit Variablen ers
 2. Gehe auf ``Text > Texteingabefeld`` und füge das Feld auf der Folie ein.
 3. Wähle das Eingabefeld aus und erstelle unter dem ``Style`` Tab eine neue Variable.
 4. Gehe auf die Folie *Variablen - Teil 2*
-5. Lösche den Text ``$$username$$``
+5. Lösche den Text ``$$username$$`` 
 6. Gehe im Bereich ``Character`` auf das X Symbol und wähle die entsprechende Variable aus.
 7. Teste in der Vorschau, ob alles funktioniert.
 
@@ -162,9 +175,9 @@ Captivate bietet die Möglichkeit direkt innerhalb der Software geschriebenen Te
 
 Für die Erstellung von Audiotext innerhalb von Captivate müssen im ersten Schritt die Foliennotizen geöffnet werden. Diese findest du unter ``Fenster > Foliennotizen``, anschließend solltest du einen weiteren Reiter neben der Zeitleiste sehen.
 
-Hier kannst du Notizen für die aktuelle Folie einfügen. Es ist empfehlenswert, die Notizen in kürzere Abschnitte zu gliedern. Um einen neuen Abschnitt zu erstellen, kannst du auf das + Symbol klicken.
+Hier kannst du Notizen für die aktuelle Folie einfügen. Es ist empfehlenswert, die Notizen in kürzere Abschnitte zu gliedern. Um einen neuen Abschnitt zu erstellen, kannst du auf das + Symbol klicken. 
 
-Sobald die Notizen vollständig sind, kannst du mit der Checkbox unterhalb des Lautsprecher Symbols alle Notizen auswählen. Anschließend kann die Text-to-Speech Option mit Klicken auf das Lautsprecher Symbol geöffnet werden.
+Sobald die Notizen vollständig sind, kannst du mit der Checkbox unterhalb des Lautsprecher Symbols alle Notizen auswählen. Anschließend kann die Text-to-Speech Option mit Klicken auf das Lautsprecher Symbol geöffnet werden. 
 
 Hier muss der entsprechende Agent und Sprache ausgewählt werden. Anschließend kann mit ``Audio generieren`` die Audiodatei erstellt werden.
 
@@ -177,11 +190,14 @@ Durch Klicken auf das Symbol gelangt man ins Bearbeitungsfenster für die Untert
 > **Wichtig:** Untertitel können nur für Audiodateien auf der Folienebene erstellt werden. Audiodateien, die einem Element zugeordnet sind, haben diese Option nicht.
 
 #### Vertonung einzelner Elemente
-Es gibt zwei verschiedene Wege, wie Audiodateien in eine Folie eingefügt werden. Die erste Option wurde eben genannt.
+
+Es gibt zwei verschiedene Wege, wie Audiodateien in eine Folie eingefügt werden. Die erste Option wurde eben genannt. 
 Die zweite Option nutzt die Möglichkeit einzelnen Elementen eine Audiodatei zuzuordnen.
 
-Beide Optionen haben ihre Vor- und Nachteile.
+Beide Optionen haben ihre Vor- und Nachteile. 
 
 Vorteil bei der ersten Option ist, dass ich pro Folie nur eine Audiodatei habe und desweiteren auch Untertitel für die Folie erstellen kann.
 
 Bei der zweiten Option habe ich etwas mehr Flexibilität, da der Audiotext nur einem einzelnen Objekt zugeordnet ist, und beliebig davor und danach weiteren Inhalt nachträglich einfügen kann. Ein weiterer Vorteil ist, dass ich bei einer Übersetzung den Inhalt der Audiodatei nicht verstehen muss, um es richtig zuzuordnen.
+
+Damit die Bezeichnung der Audiodateien nicht verändert wird und so später leichter mit einer überarbeiteten Datei ersetzt werden können, empfiehlt es sich, die Audiodatei direkt aus der Bibliothek hinzuzufügen. Dafür kannst du einfach per Drag&Drop die Audiodatei über das entsprechende Element ziehen.
