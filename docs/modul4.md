@@ -95,7 +95,7 @@ Mit dieser Option lässt sich eine Vorschau des aktuellen Projekts erstellen.
 ### Erstellung von Interaktionen
 
 Für die nachstehende Dokumentation wird auf folgende Datei Bezug genommen:
-https://connect.digital-learning-creator.de/s/5tdp6CPfw4ywXMz
+https://connect.digital-learning-creator.de/s/t3AkPiNMEa3QSZr
 
 #### Interaktion mit einer Schaltfläche
 
