@@ -2,3 +2,5 @@
 - [Modul 2](modul2.md)
 - [Modul 3](modul3.md)
 - [Modul 4](modul4.md)
+- [Modul 5](modul5.md)
+- [Modul 6](modul6.md)
