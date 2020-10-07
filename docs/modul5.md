@@ -34,7 +34,7 @@ Bei der Erstellung einer Software Simulation habe ich die Auswahl zwischen **Dem
 
 #### Neue Aufnahme starten
 
-Zusätzlich zum Modus gibt es auch die Unterscheidung zwischen **Automatische- ** & **Manuelle Aufzeichnung** und **Video Demo**.
+Zusätzlich zum Modus gibt es auch die Unterscheidung zwischen **Automatische-** & **Manuelle Aufzeichnung** und **Video Demo**.
 
 **Automatische Aufzeichnung**: Hier kann man zwischen den drei verschiedenen Modis wählen, welche bereits Voreinstellungen beinhalten.
 **Manuelle Aufzeichnung**: Hier wird nur der BIldschirm aufgenommen, ohne zusätzliche Elemente wie Klickbox, etc.
