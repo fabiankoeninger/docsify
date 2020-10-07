@@ -70,7 +70,7 @@ Im Anschluss an die Erstellung der Video Demo kann das Video unter ``Einstellung
 
 **Übergange**: Sofern mehrere Clips verwendet werden, können hier noch die Übergänge angepasst werden.
 
-### Interaktive Video
+### Interaktives Video
 
 Videos, welche als Folien-Video eingebunden werden, haben noch erweiterte Funktionalitäten.
 
